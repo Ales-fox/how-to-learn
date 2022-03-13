@@ -86,8 +86,9 @@
 .brief {
   width: 175px;
   font-size: 18px;
-  line-height: 1.2; 
+  line-height: 1.2;
   font-weight: normal;
+  margin: 0;
 }
 .main-text {
   width: 80%;
@@ -121,7 +122,7 @@
   display: flex;
   justify-content: center;
   width: 60%;
-  margin: auto;  
+  margin: auto;
   margin-bottom: 20px;
   line-height: 1.15;
   font-size: 60px;
@@ -219,7 +220,7 @@
   margin: 0;
   padding: 0;
   padding-top: 90px;
-  padding-bottom: 90px ;
+  padding-bottom: 90px;
   position: relative;
   overflow: hidden;
 }
@@ -229,7 +230,7 @@
   margin-bottom:0;
 }
 .tr_theme_dark {
-  margin-top:80px ;
+  margin-top:80px;
 }
 .cell_theme_dark {
   width: 200px;
