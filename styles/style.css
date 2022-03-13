@@ -246,64 +246,54 @@
 .footer {
   background-color: #1f1f1f;
   color: white;
-  border: 1px dotted red;/*удалить*/
   margin: 0;
-  padding: 0 0 0 0;
   min-height: 350px;
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
 .columns {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   width: 90%;
-  min-height: 250px;
   margin: auto;
-  margin-top: 60px;
-  margin-bottom: 40px;
-  border: 1px dotted red;/*удалить*/
+  min-height:250px;
 }
 .column_content-copyright {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   flex-basis: 711px;
-  border: 1px dotted red;/*удалить*/
 }
 .logo_place_footer {
   height: 35px;
-  border: 1px dotted red;/*удалить*/
 }
 .author {
   padding-top: 18px;
   padding-bottom: 18px;
   width: fit-content;
-  border: 1px dotted red;/*удалить*/
 }
 .author_p {
   margin: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  border: 1px dotted red;/*удалить*/
 }
 .column_content-info {
   flex-shrink: 1;
   display: flex;
   flex-direction: column;
-  border: 1px dotted red;/*удалить*/
 }
 .column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bolder;
-  border: 1px dotted red;/*удалить*/
 }
 .column-links {
   margin-top: 20px;
   margin-bottom: 16px;
   display: flex;
   flex-direction: column;
-  border: 1px dotted red;/*удалить*/
 }
 .column-link {
   line-height: 30px;
@@ -312,13 +302,13 @@
 }
 .column_content-social {
   flex-shrink: 1;
-  border: 1px dotted red;/*удалить*/
 }
 .social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
 }
+
 
 /* и элемента с модификатором вида ключ-значение 
 .table__cell_theme_dark {
