@@ -1,7 +1,6 @@
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/root/root__text.css);
-@import url(../blocks/root/root__ul.css);
+@import url(../blocks/reset/reset.css);
 
 @import url(../blocks/page/page.css);
 
